@@ -1,9 +1,0 @@
-*PROMPT:*
-You are tasked with writing a function that will return an array or vector of factors of a number which the user has entered. For example if a user has entered 12. The factors of 12 will be 1, 2, 3, 4, 6, 12. Note: You should do some basic validation making sure that the user only enters a positive integer and is not zero. You can code this challenge in any language you want. I want these challenges to be creative. You can even code it in Assembly just kidding but if you can do it.
-
-***EXAMPLE TESTS:***
-12 --> should return [1, 2, 3, 4, 6, 12]
-7 --> should return [1, 7]
-1 --> should return [1]
-456 --> should return [1, 2, 3, 4, 6, 8, 12, 19, 24, 38, 57, 76, 114, 152, 228, 456]
-456453 --> should return [1, 3, 9, 41, 123, 369, 1237, 3711, 11133, 50717, 152151, 456453]
